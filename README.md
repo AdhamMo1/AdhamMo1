@@ -35,6 +35,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Sql](https://img.shields.io/badge/SQLSERVER-07405E?style=for-the-badge&logo=SqlServer&logoColor=white)
+![Sql](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=SqlServer&logoColor=white)
 
 
