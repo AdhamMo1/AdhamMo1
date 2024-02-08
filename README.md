@@ -18,9 +18,6 @@
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/adham-muhamed/ to see some of the projects I've worked on.
 
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/adham-muhamed/" target="_blank"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
