@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Software Engineer, DotNet Developer.
 - 👨‍💻 As a CS student in Zagazig University, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with .Net Core, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/adham-muhamed/ to see some of the projects I've worked on.
 
