@@ -13,12 +13,12 @@
 
 </p> 
 
-- 🏢 I'm a Software Engineer, DotNet Developer.
+- 🏢 I'm a Software Engineer, (ASP.NET).
 - 👨‍💻 As a CS student in Zagazig University Department of Information Technology, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with .Net Core, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/adham-mohamed1/ to see some of the projects I've worked on.
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-05122A?style=flat-square&logo=LeetCode&logoColor=yollow)](https://leetcode.com/u/Adham21/)Check out my porfile at LeetCode (https://leetcode.com/u/Adham21/) to see some of the problems I've solved.
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-05122A?style=For-the-Badge&logo=LeetCode&logoColor=yollow)](https://leetcode.com/u/Adham21/)Check out my porfile at LeetCode (https://leetcode.com/u/Adham21/) to see some of the problems I've solved.
 
 
 
