@@ -13,7 +13,7 @@
 
 </p> 
 
-- 🏢 I'm a Software Engineer, (ASP.NET).
+- 🏢 I'm a Software Engineer, ( ASP.NET , Django ).
 - 👨‍💻 As a CS student in Zagazig University Department of Information Technology, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with .Net Core, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
