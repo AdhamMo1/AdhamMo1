@@ -40,7 +40,6 @@
 ![Sql](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=SqlServer&logoColor=white)
 
 ## 🔥 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamMo1&theme=highcontrast&hide_border=true" />
 </p>
