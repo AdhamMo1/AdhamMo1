@@ -1,46 +1,80 @@
+<h1 align="center">
+  Hi, I'm <span style="color:#ff4b4b;">Adham Mohamed</span> 👋  
+</h1>
 
-
-
-<h3 align="center">
-  Welcome to Adham Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
- 
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=BackEnd%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+%7C+Django+%7C+REST+APIs;Clean+Architecture+%7C+CQRS;Always+Learning+%26+Improving" />
+</p>
 
-</p> 
+---
 
-- 🏢 I'm a Software Engineer, ( ASP.NET , Django ).
-- 👨‍💻 As a CS student in Zagazig University Department of Information Technology, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .Net Core, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/adham-mohamed1/ to see some of the projects I've worked on.
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-05122A?style=For-the-Badge&logo=LeetCode&logoColor=yollow)](https://leetcode.com/u/Adham21/)Check out my porfile at LeetCode (https://leetcode.com/u/Adham21/) to see some of the problems I've solved.
+## 👨‍💻 About Me
+I’m a backend developer with strong foundations in software engineering, problem solving, and system design.  
+I enjoy building scalable APIs, clean architectures, and database-driven systems.
 
+- 🎓 **Bachelor’s in Computer & Information Sciences** – Zagazig University  
+- 🏆 Honor Grade – GPA **3.5 / 4.0**  
+- 🔧 Specialized in **ASP.NET Core**, **Django**, **SQL Server**, **PostgreSQL**  
+- 🧠 Passionate about backend engineering & system architecture  
+---
 
+## 🛠 Tech Stack
 
-### Connect with Me :
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp" />
+</p>
 
-<a href="https://www.linkedin.com/in/adham-mohamed1/" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+### **Frameworks & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,django" />
+</p>
 
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" />
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Sql](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=SqlServer&logoColor=white)
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
+</p>
 
+---
 
-## 🔥 GitHub Stats
+## 🌟 Certificates & Achievements
+- HackerRank — **C# Certificate**
+- Udemy — **Algorithms**
+- HackerRank — **Software Engineer Intern Certificate**
+- Almdrasa — **Git & GitHub**
+- MaharaTech — **Network Fundamentals**
+- ITI — **Cyber Security Basics**
+- 🎖 **Top 50 SQL on LeetCode**
+
+---
+
+## 🧑‍💼 Soft Skills
+- Excellent problem-solving  
+- Strong communication  
+- Collaboration & teamwork  
+- Time management  
+- Continuous learner  
+
+---
+
+## 🌍 Languages
+- **Arabic:** Native  
+- **English:** Professional Working Proficiency  
+
+---
+
+## 🤝 Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamMo1&theme=highcontrast&hide_border=true" />
+  <a href="https://linkedin.com/in/adham-mohamed1">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:adhmmohamed066@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
 </p>
