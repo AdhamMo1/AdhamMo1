@@ -1,6 +1,11 @@
 <h1 align="center">
   Hi, I'm <span style="color:#ff4b4b;">Adham Mohamed</span> 👋  
 </h1>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdhamMo1&theme=github_dark)
+
+</div>
 
 I’m a backend developer with strong foundations in software engineering, problem solving, and system design.  
 I enjoy building scalable APIs, clean architectures, and database-driven systems.
