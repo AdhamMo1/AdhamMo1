@@ -1,14 +1,9 @@
 <h1 align="center">
   Hi, I'm <span style="color:#ff4b4b;">Adham Mohamed</span> 👋  
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+%7C+Django+%7C+REST+APIs;Clean+Architecture+%7C+CQRS;Always+Learning+%26+Improving" />
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Me
 I’m a backend developer with strong foundations in software engineering, problem solving, and system design.  
 I enjoy building scalable APIs, clean architectures, and database-driven systems.
 
